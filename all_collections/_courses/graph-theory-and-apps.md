@@ -11,6 +11,5 @@ hours: 4
 extra: 2E
 ects: 5
 books:
-  - isbn_960_431_510_2
-  - 
+  - isbn_960_431_510_2 
 ---
